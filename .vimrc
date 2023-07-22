@@ -5,7 +5,7 @@
 " ## Usage: create or modify ~/.vimrc
 " ##
 " ## Created: 20230715, Jimmy Lela
-" ## Updated: 20230715, Jimmy Lela
+" ## Updated: 20230722, Jimmy Lela
 " ##
 " #################################################################
 
