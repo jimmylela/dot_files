@@ -11,5 +11,6 @@
 
 " ## always show line numbers
 set number
+
 " ## enable file specific behavior including syntax highlighting and indentation
 filetype plugin indent on
